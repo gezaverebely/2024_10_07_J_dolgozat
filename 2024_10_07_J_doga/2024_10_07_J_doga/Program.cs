@@ -13,7 +13,7 @@ while (!sr.EndOfStream)
     string[] line = sr.ReadLine().Split(";");
     Verseny versenyzo = new Verseny();
 
-    versenyzo.Name = line[0];
+    versenyzo.Nev = line[0];
     versenyzo.szuletesiev = 2024 - int.Parse(line[1]);
     versenyzo.rajtszam = int.Parse(line[2]);
     versenyzo.nem = line[3];
