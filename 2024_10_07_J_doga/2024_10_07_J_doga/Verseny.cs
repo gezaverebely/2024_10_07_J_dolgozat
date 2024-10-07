@@ -8,7 +8,7 @@ namespace _2024_10_07_J_doga
 {
     internal class Verseny
     {
-        public string Name { get; set; }
+        public string Nev { get; set; }
         public int szuletesiev { get; set; }
         public int rajtszam { get; set; }
         public string nem { get; set; }
