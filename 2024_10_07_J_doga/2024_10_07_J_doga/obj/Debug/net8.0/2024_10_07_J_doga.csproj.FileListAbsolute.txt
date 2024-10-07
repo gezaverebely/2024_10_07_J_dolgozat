@@ -1,0 +1,14 @@
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\bin\Debug\net8.0\2024_10_07_J_doga.exe
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\bin\Debug\net8.0\2024_10_07_J_doga.deps.json
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\bin\Debug\net8.0\2024_10_07_J_doga.runtimeconfig.json
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\bin\Debug\net8.0\2024_10_07_J_doga.dll
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\bin\Debug\net8.0\2024_10_07_J_doga.pdb
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.AssemblyInfoInputs.cache
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.AssemblyInfo.cs
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.csproj.CoreCompileInputs.cache
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.dll
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\refint\2024_10_07_J_doga.dll
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.pdb
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\2024_10_07_J_doga.genruntimeconfig.cache
+C:\Users\szomora.geza\source\repos\2024_10_07_J_doga\2024_10_07_J_doga\obj\Debug\net8.0\ref\2024_10_07_J_doga.dll
